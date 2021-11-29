@@ -1,5 +1,5 @@
 # Personal Website
 
-See: [ananda1066.github.io/personal-site](https://ananda1066.github.io/personal-site).
+See: [ananda1066.github.io/personal](https://ananda1066.github.io/personal).
 
-My personal website. 
+My personal website, using React. 
