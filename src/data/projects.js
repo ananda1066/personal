@@ -28,7 +28,7 @@ const data = [
     title: 'TileWarp',
     subtitle: 'My first Android app',
     link: 'https://github.com/ananda1066/TileWarp',
-    image: '/images/projects/tilewarp.png',
+    image: '/images/projects/tilewarp.PNG',
     date: '2015-06-28',
     desc:
       'TileWarp is a puzzle app that can be used as both a game and a learning '
