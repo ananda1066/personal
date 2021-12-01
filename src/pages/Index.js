@@ -2,7 +2,7 @@ import React from 'react';
 import { Link } from 'react-router-dom';
 
 import Main from '../layouts/Main';
-import Pdf from '../data/AlishaNandaResume2021.pdf';
+import Pdf from '../static/AlishaNandaResume2021.pdf';
 
 const Index = () => (
   <Main
