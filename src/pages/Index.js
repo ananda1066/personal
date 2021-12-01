@@ -2,6 +2,7 @@ import React from 'react';
 import { Link } from 'react-router-dom';
 
 import Main from '../layouts/Main';
+import Pdf from '../data/AlishaNandaResume2021.pdf';
 
 const Index = () => (
   <Main
@@ -17,12 +18,17 @@ const Index = () => (
           </p>
         </div>
       </header>
-      <p> Welcome to my website. Please feel free to read more <Link to="/about">about me</Link>,
-        or you can check out my {' '}
-        <Link to="/resume">resume</Link>, {' '}
+      <p>
+        Welcome to my website! Feel free to read more <Link to="/about">about me</Link>,
+        check out my {' '} <Link to="/resume">resume</Link> and {' '}
         <Link to="/projects">projects</Link>, {' '}
-        or <Link to="/contact">contact</Link> me.
+        or <Link to="/contact">contact me</Link>.
       </p>
+      <ul className="actions">
+        <li>
+          <a href={Pdf} target="_blank" rel="noreferrer" className="button">Download Resume</a>
+        </li>
+      </ul>
     </article>
   </Main>
 );
