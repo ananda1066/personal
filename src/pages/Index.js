@@ -2,7 +2,6 @@ import React from 'react';
 import { Link } from 'react-router-dom';
 
 import Main from '../layouts/Main';
-import Pdf from '../static/AlishaNandaResume2021.pdf';
 
 const Index = () => (
   <Main
@@ -26,7 +25,7 @@ const Index = () => (
       </p>
       <ul className="actions">
         <li>
-          <a href={Pdf} target="_blank" rel="noreferrer" className="button">Download Resume</a>
+          <a href="https://drive.google.com/file/d/1mJ7lqRhsc7U2g-leCPgU5m21hP0MOdJ3/view?usp=sharing" target="_blank" rel="noreferrer" className="button">Downloadable Resume</a>
         </li>
       </ul>
     </article>

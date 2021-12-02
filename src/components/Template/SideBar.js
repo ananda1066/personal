@@ -23,14 +23,9 @@ const SideBar = () => (
         I am currently a software engineer at Google,
         with previous internships at Facebook and Microsoft. I love to learn
         new technologies and tackle ambiguity head-on. My work centers around
-        networking, and I hope to pursue a masters in CS to further develop my
-        networking expertise.
+        networking, and I hope to pursue a masters in computer science to further
+        develop my networking expertise.
       </p>
-      <ul className="actions">
-        <li>
-          <a href="AlishaNandaResume2021.pdf" className="button">Download Resume</a>
-        </li>
-      </ul>
     </section>
 
     <section id="footer">
