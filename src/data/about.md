@@ -15,7 +15,7 @@ At Google, I work on our internal version of gRPC, an open-source RPC framework 
 
 - At 15, I spent three months of the school year watching [a series of 80+ videos](https://www.youtube.com/watch?v=Hl-zzrqQoSE&list=PLFE2CE09D83EE3E28) to self-learn Java in my spare time.
 
-- I came up with an idea for an Android app to test out my new Java knowledge in January 2015. I then spent some time learning Android, found a graphic designer and marketer, and developed the whole app over the summer of 2016, going into my senior year of high school. The app, TileWarp, was released into the Google Play Store in September 2016.
+- I came up with an idea for an Android app to test out my new Java knowledge in January 2015. I then spent some time learning Android, found a graphic designer and marketer, and developed the whole app over the summer of 2015, going into my senior year of high school. The app, TileWarp, was released into the Google Play Store in September 2015.
 
 - That same summer, I took Girls Who Code classes at my local library, meeting many other women in tech and refreshing my Python knowledge.
 
