@@ -13,7 +13,7 @@ const SideBar = () => (
       </Link>
       <header>
         <h2>Alisha Nanda</h2>
-        <p><a href="mailto:alishananda@gmail.com">alishananda@gmail.com</a></p>
+        <p><a href="mailto:alishananda@gmail.com" target="_blank" rel="noreferrer">alishananda@gmail.com</a></p>
       </header>
     </section>
 
@@ -22,9 +22,9 @@ const SideBar = () => (
       <p>
         I am currently a software engineer at Google,
         with previous internships at Facebook and Microsoft. I love to learn
-        new technologies and tackle ambiguity head-on. My work centers around
-        networking, and I hope to pursue a masters in computer science to further
-        develop my networking expertise.
+        new technologies and tackle interesting projects head-on. My work centers around
+        networking, and I hope to pursue a masters in computer science to supplement
+        my hands-on experience.
       </p>
     </section>
 

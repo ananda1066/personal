@@ -1,7 +1,7 @@
 
 # Intro
 
-I am currently a software engineer at Google where I work in networking, specifically on our internal RPC systems, and am looking to join a part-time Masters program in the next year to further my networking expertise.
+I am currently a software engineer at Google where I work in networking, specifically on our internal RPC systems, and am looking to join a part-time Masters program in the next year to supplement my hands-on experience.
 
 # Currently
 

@@ -25,7 +25,7 @@ const Index = () => (
       </p>
       <ul className="actions">
         <li>
-          <a href="https://drive.google.com/file/d/1mJ7lqRhsc7U2g-leCPgU5m21hP0MOdJ3/view?usp=sharing" target="_blank" rel="noreferrer" className="button">Downloadable Resume</a>
+          <a href="https://drive.google.com/file/d/1LDcYSmiuQd_VNkL1AOyxzim1alJUP9_A/view?usp=sharing" target="_blank" rel="noreferrer" className="button">Downloadable Resume</a>
         </li>
       </ul>
     </article>

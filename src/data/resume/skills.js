@@ -25,6 +25,21 @@ const skills = [
     category: ['Tools', 'Languages'],
   },
   {
+    title: 'Git/Github',
+    competency: 5,
+    category: ['Tools'],
+  },
+  {
+    title: 'Lisp',
+    competency: 2,
+    category: ['Languages'],
+  },
+  {
+    title: 'Prolog',
+    competency: 2,
+    category: ['Languages'],
+  },
+  {
     title: 'PostgreSQL/SQL',
     competency: 1,
     category: ['Databases', 'Languages'],

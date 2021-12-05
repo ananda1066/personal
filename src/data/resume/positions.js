@@ -22,7 +22,7 @@ const positions = [
     ],
   },
   {
-    company: 'Meta (previously Facebook)',
+    company: 'Facebook',
     position: 'Software Engineering Intern',
     link: 'https:/facebook.com',
     daterange: 'June 2019 - September 2019',
